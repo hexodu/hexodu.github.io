@@ -3,84 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hexodu.github.io/post/</loc>
-    <lastmod>2019-10-01T18:24:47-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2019/10/01/test/</loc>
-    <lastmod>2019-10-01T18:24:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/</loc>
-    <lastmod>2019-10-01T18:24:47-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2019/10/01/maurys-alfonso-risco.-ni%C3%B1o-bitongo-adulto-remueve-comentarios-en-facebook-por-capricho.../</loc>
-    <lastmod>2019-10-01T06:35:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2017/01/31/tabaco-y-ron-por-microsoft-word/</loc>
-    <lastmod>2017-01-31T04:05:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2015/08/24/los-marcianos-llegaron-ya/</loc>
-    <lastmod>2015-08-24T02:02:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-america/</loc>
-    <lastmod>2015-02-28T22:39:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2015/01/30/jos%C3%A9-mart%C3%AD-y-el-ajedrez/</loc>
-    <lastmod>2015-01-30T06:47:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2015/01/20/andres-clemente-v%C3%A1zquez-ajedrecista-de-cuba-consul-de-mexico/</loc>
-    <lastmod>2015-01-20T08:44:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2015/01/03/una-introspectiva-sobre-hampa-afro-cubana-los-negros-brujos-la-craneolog%C3%ADa-y-la-craneometr%C3%ADa/</loc>
-    <lastmod>2015-01-03T12:16:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2013/06/26/una-retrospectiva-sobre-hampa-afro-cubana-los-negros-brujos/</loc>
-    <lastmod>2013-06-26T15:42:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2012/02/11/carlos-manuel-trelles-matancero-el-mas-notable-bibli%C3%B3grafo-de-hispano-america/</loc>
-    <lastmod>2012-02-11T04:08:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2011/10/04/la-anomal%C3%ADa-del-lenguaje/</loc>
-    <lastmod>2011-10-04T21:50:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hexodu.github.io/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/</loc>
-    <lastmod>2010-10-08T14:19:45+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hexodu.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hexodu.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexodu.github.io/</loc>
     <priority>0</priority>
   </url>
   
