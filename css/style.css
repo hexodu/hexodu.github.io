@@ -2155,3 +2155,22 @@ ol.toc {
 .highlight .code .selector-id {
   font-weight: bold;
 }
+
+img[src$='floatleft']
+{
+	float: left; 
+	width: 55%; 
+	height: 55%; 
+}
+
+img[src$='floatright']
+{
+	float: right; 
+	width: 55%; 
+	height: 55%; 
+}
+
+
+
+
+
