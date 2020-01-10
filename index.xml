@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Un blog acerca de Cuba</title>
-    <link>https://hexodu.github.io/</link>
-    <description>Recent content on Un blog acerca de Cuba</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2020 04:32:07 -0500</lastBuildDate>
     
-	<atom:link href="https://hexodu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La desinformación en Facebook </title>
-      <link>https://hexodu.github.io/2020/01/06/la-desinformaci%C3%B3n-en-facebook/</link>
+      <link>/2020/01/06/la-desinformaci%C3%B3n-en-facebook/</link>
       <pubDate>Mon, 06 Jan 2020 04:32:07 -0500</pubDate>
       
-      <guid>https://hexodu.github.io/2020/01/06/la-desinformaci%C3%B3n-en-facebook/</guid>
+      <guid>/2020/01/06/la-desinformaci%C3%B3n-en-facebook/</guid>
       <description>De acuerdo a los últimos reportes por el Washington Post, que se publicaron durante Octubre del 2019 la compañía Facebook identificó y supuestamente removió varias cuentas del mismo network de Rusia que en el año 2016 había promovido el candidato de ese entonces Donald Drumpf..
 Este artículo Facebook takedowns show new Russian activity targeted Biden, praised Trump (Recientes eliminaciones ed Facebook muestran nueva actividad de Rusia critica a Biden mientras que alaba a Trump) expone más acerca de esta última manipulación de datos y de información para decebir al público cuando varios de estos usuarios alababan a Drumpf mientras que criticaban al otro candidato.</description>
     </item>
     
     <item>
       <title>Acerca De Facebook: Ideas Robadas,  Censo Virtual, Y El Usuario Como Mercancía de la Corporación</title>
-      <link>https://hexodu.github.io/2019/12/28/acerca-de-facebook-ideas-robadas-censo-virtual-y-el-usuario-como-mercanc%C3%ADa-de-la-corporaci%C3%B3n/</link>
+      <link>/2019/12/28/acerca-de-facebook-ideas-robadas-censo-virtual-y-el-usuario-como-mercanc%C3%ADa-de-la-corporaci%C3%B3n/</link>
       <pubDate>Sat, 28 Dec 2019 02:29:10 -0500</pubDate>
       
-      <guid>https://hexodu.github.io/2019/12/28/acerca-de-facebook-ideas-robadas-censo-virtual-y-el-usuario-como-mercanc%C3%ADa-de-la-corporaci%C3%B3n/</guid>
+      <guid>/2019/12/28/acerca-de-facebook-ideas-robadas-censo-virtual-y-el-usuario-como-mercanc%C3%ADa-de-la-corporaci%C3%B3n/</guid>
       <description>Este artículo lo publiqué hace tanto tiempo atrás - primera vez fue en sl 2011 y posteriormente en el 2012 - que ni me acordaba que estaba por los alrededores&amp;hellip;
 No he reeditado nada. Aparece a continuación tal y como lo escribi en ese entonces.
 Índice de contenido  El origen de Facebook Ideas robadas ¿Quiénes son los beneficiados en Facebook? La verdadera cara de Facebook: census virtual Tú eres el consumidor y cliente La farsa de por qué apoyan la cultura de la tecnología El intrínseco motto de la compañía La falta de originalidad y plagiarismo cibernético  El Origen de Facebook Antes de empezar, quisiera decir que no tengo ninguna afiliación ni con Facebook ni con Google +, ni mucho menos myspace, ni de cualquier otro medio social tecnológico que pudiése existir.</description>
@@ -34,10 +33,10 @@ No he reeditado nada. Aparece a continuación tal y como lo escribi en ese enton
     
     <item>
       <title>El pasado de facebook database</title>
-      <link>https://hexodu.github.io/2019/12/27/el-pasado-de-facebook-database/</link>
+      <link>/2019/12/27/el-pasado-de-facebook-database/</link>
       <pubDate>Fri, 27 Dec 2019 03:38:04 -0500</pubDate>
       
-      <guid>https://hexodu.github.io/2019/12/27/el-pasado-de-facebook-database/</guid>
+      <guid>/2019/12/27/el-pasado-de-facebook-database/</guid>
       <description>NYtimes - Todo lo que Facebook compartió con empresas pese a prometer más privacidad.  Este reporte se publicó por el New York Times el 18 de Diciembre de 2018, y que tampbién aparece en inglés - el cual es asequible mediante el enlace&amp;hellip;
 Hay tantos artículos que tocan este tema que no es necesario ni el uso de Google.
 Estos son los datos que Facebook tiene de tu vida y así los utiliza  Facebook y Cambridge Analytica: 10 claves para entender el escándalo del robo de datos.</description>
@@ -45,10 +44,10 @@ Estos son los datos que Facebook tiene de tu vida y así los utiliza  Facebook y
     
     <item>
       <title>Tabaco y ron por microsoft word</title>
-      <link>https://hexodu.github.io/2017/01/31/tabaco-y-ron-por-microsoft-word/</link>
+      <link>/2017/01/31/tabaco-y-ron-por-microsoft-word/</link>
       <pubDate>Tue, 31 Jan 2017 04:05:15 -0500</pubDate>
       
-      <guid>https://hexodu.github.io/2017/01/31/tabaco-y-ron-por-microsoft-word/</guid>
+      <guid>/2017/01/31/tabaco-y-ron-por-microsoft-word/</guid>
       <description>Cuando leo algún que otro artículo que haya sido publicado por alguna que otra revista que toque temas políticos, trato por todos los medios de no involucrarme en ello.
 No es la primera vez ni será la última, que leo esta revista. Siempre ha tenido interesantes artículos sobre literatura en sentido general.
 También estoy bien enterado que existió un cierto filósofo llamado Pericles a quien se le atribuye con haber dicho algo en las líneas que: no se trata de que no estás interesado en política, sino más bien es la política que está interesada en ti.</description>
@@ -56,96 +55,96 @@ También estoy bien enterado que existió un cierto filósofo llamado Pericles a
     
     <item>
       <title>Los marcianos llegaron ya</title>
-      <link>https://hexodu.github.io/2015/08/24/los-marcianos-llegaron-ya/</link>
+      <link>/2015/08/24/los-marcianos-llegaron-ya/</link>
       <pubDate>Mon, 24 Aug 2015 02:02:24 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2015/08/24/los-marcianos-llegaron-ya/</guid>
+      <guid>/2015/08/24/los-marcianos-llegaron-ya/</guid>
       <description>Las líricas de canciones, o los estribillos de poemas, no se olvidan tan fácilmente. Quedan encostradas en el subconsciente como si fueran parte de uno. Incluso cuando otras imágenes más importantes se hayan borrado parcialmente, o por completo. Aniversarios, festejos, cumpleaños y días santos, son las únicas memorias que casi siguen a la par. Quizás otros padezcan de diferentes experiencias, y todo está en el grado de impresionismo de las mismas.</description>
     </item>
     
     <item>
       <title>Las Lenguas Perdidas de América</title>
-      <link>https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/</link>
+      <link>/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/</link>
       <pubDate>Sat, 28 Feb 2015 22:39:27 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/</guid>
+      <guid>/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/</guid>
       <description>Y solo queda el tiempo, tierno y agrio, cruel y frágil carapacho, como aludido testigo de las vicisitudes de este lenguaje que el idioma español ignoró en el adaptativo cuajado de sus elementos idiomáticos.
 La diversificación de los dialectos americanos llevó consigo la determinación sacrificada e incondicional de los misioneros españoles en su aprendizaje, para un postrero avance filológico de unas lenguas que tan extrañas como vírgenes, habían sembrado sus raíces lingüísticas en el adamar inocuo de significados, y en el caudal fonético de aquellos que las hablaban.</description>
     </item>
     
     <item>
       <title>José Martí y el ajedrez</title>
-      <link>https://hexodu.github.io/2015/01/30/jos%C3%A9-mart%C3%AD-y-el-ajedrez/</link>
+      <link>/2015/01/30/jos%C3%A9-mart%C3%AD-y-el-ajedrez/</link>
       <pubDate>Fri, 30 Jan 2015 06:47:14 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2015/01/30/jos%C3%A9-mart%C3%AD-y-el-ajedrez/</guid>
+      <guid>/2015/01/30/jos%C3%A9-mart%C3%AD-y-el-ajedrez/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Andres Clemente Vázquez ajedrecista de Cuba consul de Mexico</title>
-      <link>https://hexodu.github.io/2015/01/20/andres-clemente-v%C3%A1zquez-ajedrecista-de-cuba-consul-de-mexico/</link>
+      <link>/2015/01/20/andres-clemente-v%C3%A1zquez-ajedrecista-de-cuba-consul-de-mexico/</link>
       <pubDate>Tue, 20 Jan 2015 08:44:45 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2015/01/20/andres-clemente-v%C3%A1zquez-ajedrecista-de-cuba-consul-de-mexico/</guid>
+      <guid>/2015/01/20/andres-clemente-v%C3%A1zquez-ajedrecista-de-cuba-consul-de-mexico/</guid>
       <description>Andrés Clemente Vázquez. Ajedrecista de Cuba
- Datos biográficos
- Libros publicados
- Juego entre Carrington y Vázquez
- Referencias
+  Datos biográficos
+  Libros publicados
+  Juego entre Carrington y Vázquez
+  Referencias
   Datos biográficos Andrés Clemente Vázquez, original de La Habana, Cuba, y cónsul después en México[1][2], publicó varios libros, la mayoría de estos en ajedrez. Nació en Güines el 22 de Noviembre de 1844. Se naturalizó como ciudadano mexicano años después, ocupando numerosos cargos gubernamentales entre los que se encuentran Cónsul en La Habana el 30 de Junio de 1886, Cónsul general en Cuba, el 17 de enero de 1887.</description>
     </item>
     
     <item>
       <title>Una introspectiva sobre Hampa Afro-Cubana: Los Negros Brujos, la craneología y la craneometría</title>
-      <link>https://hexodu.github.io/2015/01/03/una-introspectiva-sobre-hampa-afro-cubana-los-negros-brujos-la-craneolog%C3%ADa-y-la-craneometr%C3%ADa/</link>
+      <link>/2015/01/03/una-introspectiva-sobre-hampa-afro-cubana-los-negros-brujos-la-craneolog%C3%ADa-y-la-craneometr%C3%ADa/</link>
       <pubDate>Sat, 03 Jan 2015 12:16:25 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2015/01/03/una-introspectiva-sobre-hampa-afro-cubana-los-negros-brujos-la-craneolog%C3%ADa-y-la-craneometr%C3%ADa/</guid>
+      <guid>/2015/01/03/una-introspectiva-sobre-hampa-afro-cubana-los-negros-brujos-la-craneolog%C3%ADa-y-la-craneometr%C3%ADa/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Una retrospectiva sobre Hampa Afro-Cubana: Los Negros Brujos</title>
-      <link>https://hexodu.github.io/2013/06/26/una-retrospectiva-sobre-hampa-afro-cubana-los-negros-brujos/</link>
+      <link>/2013/06/26/una-retrospectiva-sobre-hampa-afro-cubana-los-negros-brujos/</link>
       <pubDate>Wed, 26 Jun 2013 15:42:27 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2013/06/26/una-retrospectiva-sobre-hampa-afro-cubana-los-negros-brujos/</guid>
+      <guid>/2013/06/26/una-retrospectiva-sobre-hampa-afro-cubana-los-negros-brujos/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Carlos Manuel Trelles matancero el mas notable bibliógrafo de hispano america</title>
-      <link>https://hexodu.github.io/2012/02/11/carlos-manuel-trelles-matancero-el-mas-notable-bibli%C3%B3grafo-de-hispano-america/</link>
+      <link>/2012/02/11/carlos-manuel-trelles-matancero-el-mas-notable-bibli%C3%B3grafo-de-hispano-america/</link>
       <pubDate>Sat, 11 Feb 2012 04:08:38 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2012/02/11/carlos-manuel-trelles-matancero-el-mas-notable-bibli%C3%B3grafo-de-hispano-america/</guid>
+      <guid>/2012/02/11/carlos-manuel-trelles-matancero-el-mas-notable-bibli%C3%B3grafo-de-hispano-america/</guid>
       <description>Carlos Trelles y Govín 
- Vida y obra
- Carrera literaria
- Pensamientos políticos
- Primer bibliotecólogo
- Representante de Cuba en París
- Magnus Opus de Trelles
- Bibliografía
-  Vida y obra Dr. Carlos Manuel Trelles y Govín nació el 15 de Febrero de 1886 en la ciudad de Matanzas, Cuba. Fue quizás el historiador y bibliógrafo más importante de la ciudad de los Ríos. Por su extensivo trabajo de investigación, Trelles nos regaló la bibliografía más completa que se haya publicado a mediados del siglo XX en las Americas, titulada Bibliografía Cubana.</description>
+  Vida y obra
+  Carrera literaria
+  Pensamientos políticos
+  Primer bibliotecólogo
+  Representante de Cuba en París
+  Magnus Opus de Trelles
+  Bibliografía
+  Vida y obra Dr. Carlos Manuel Trelles y Govín nació el 15 de Febrero de 1886 en la ciudad de Matanzas, Cuba. Fue quizás el historiador y bibliógrafo más importante de la ciudad de los Ríos.</description>
     </item>
     
     <item>
       <title>la anomalía del lenguaje</title>
-      <link>https://hexodu.github.io/2011/10/04/la-anomal%C3%ADa-del-lenguaje/</link>
+      <link>/2011/10/04/la-anomal%C3%ADa-del-lenguaje/</link>
       <pubDate>Tue, 04 Oct 2011 21:50:47 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2011/10/04/la-anomal%C3%ADa-del-lenguaje/</guid>
+      <guid>/2011/10/04/la-anomal%C3%ADa-del-lenguaje/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sergio Mederos poeta matancero de estilo refinado y puritanismo linguistico</title>
-      <link>https://hexodu.github.io/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/</link>
+      <link>/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/</link>
       <pubDate>Fri, 08 Oct 2010 14:19:45 +0000</pubDate>
       
-      <guid>https://hexodu.github.io/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/</guid>
+      <guid>/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/</guid>
       <description>Remontándonos a una época más reciente, donde se denote el valor artísticomatancero como centro cultural, no puede darse por sentada la exaltación de una específica rama de un arte en particular, como lo es la poesía en la literatura, sin dejar de desapercibirse y relegar a un secundario plano a los versos octasílabos que han contado siempre, pero antes mucho más, con una popularidad impresionante.
 Aunque fue un género predominante en las zonas rurales del campo cubano, sus seguidores mostrarían a lo largo del tiempo una incomparable devoción, no antes experimentada con otros versículos de la modernidad.</description>
     </item>
