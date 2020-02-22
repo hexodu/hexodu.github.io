@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <title>Escribiendo a retazos</title>
-    <meta name="generator" content="Hugo 0.64.1" />
+    <meta name="generator" content="Hugo 0.62.2" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Carlos Enriquez">
@@ -27,7 +27,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://hexodu.github.io/" />
-<meta property="og:updated_time" content="2020-02-10T23:57:36-05:00" />
+<meta property="og:updated_time" content="2020-02-21T03:30:12-05:00" />
 
     
     <meta itemprop="name" content="Escribiendo a retazos">
@@ -155,7 +155,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        17
+        18
         <span></span>
       </div>
       <div class="article-info-block">
@@ -238,6 +238,131 @@
     <section id="main">
     
     
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        <a href="https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/" itemprop="url">
+            <img src="https://hexodu.github.io/images/vinaza.png" class="article-banner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/">
+    <h1 class="article-title" itemprop="name">
+        Las Lenguas Perdidas de América
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2015-02-28 22:39:27 &#43;0000 &#43;0000" itemprop="datePublished">2015-02-28</time>
+            &middot;
+            1261
+            
+            &middot;
+            6
+            
+        </div>
+        
+        
+
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                Y solo queda el tiempo, tierno y agrio, cruel y frágil carapacho, como aludido testigo de las vicisitudes de este lenguaje que el idioma español ignoró en el adaptativo cuajado de sus elementos idiomáticos.
+La diversificación de los dialectos americanos llevó consigo la determinación sacrificada e incondicional de los misioneros españoles en su aprendizaje, para un postrero avance filológico de unas lenguas que tan extrañas como vírgenes, habían sembrado sus raíces lingüísticas en el adamar inocuo de significados, y en el caudal fonético de aquellos que las hablaban.
+            </p>
+            <p class="article-more-link">
+                <a href="https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/">
+                    
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+	<a data-url="https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/" data-id=" e9bf6b21889d97b2c7f1cd5f0bb5280c  " class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+    <a href="https://hexodu.github.io/2015/02/28/las-lenguas-perdidas-de-am%C3%A9rica/#disqus_thread" class="article-comment-link">
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
 
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
     <div class="article-inner">
@@ -1139,6 +1264,23 @@ Aunque fue un género predominante en las zonas rurales del campo cubano, sus se
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://hexodu.github.io/2020/02/21/la-cafetera-original-de-caf%C3%A9-expreso/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://hexodu.github.io/images/moka-express.jpg)" alt="Escribiendo a retazos" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="https://hexodu.github.io/2020/02/21/la-cafetera-original-de-caf%C3%A9-expreso/" class="title">La Cafetera Original De Café Expreso</a></p>
+                    <p class="item-date">
+                        <time datetime="2020-02-21 03:30:12 -0500 EST" itemprop="datePublished">2020-02-21</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://hexodu.github.io/2020/02/10/cient%C3%ADficos-esperan-que-vacuna-contra-ebola-ayude-contra-el-coronavirus/" class="thumbnail">
                     
                         <span class="thumbnail-image thumbnail-none"></span>
@@ -1201,23 +1343,6 @@ Aunque fue un género predominante en las zonas rurales del campo cubano, sus se
                     <p class="item-title"><a href="https://hexodu.github.io/2020/01/16/l%C3%ADder-de-mayor%C3%ADa-en-senado-comete-perjurio/" class="title">Líder De Mayoría en Senado Comete Perjurio</a></p>
                     <p class="item-date">
                         <time datetime="2020-01-16 02:53:30 -0500 EST" itemprop="datePublished">2020-01-16</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://hexodu.github.io/2020/01/06/la-desinformaci%C3%B3n-en-facebook/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://hexodu.github.io/images/image80.png)" alt="Escribiendo a retazos" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://hexodu.github.io/2020/01/06/la-desinformaci%C3%B3n-en-facebook/" class="title">La desinformación en Facebook </a></p>
-                    <p class="item-date">
-                        <time datetime="2020-01-06 04:32:07 -0500 EST" itemprop="datePublished">2020-01-06</time>
                     </p>
                 </div>
             </li>
