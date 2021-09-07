@@ -5,10 +5,6 @@
     <link>https://hexodu.github.io/categories/</link>
     <description>Recent content in Categories on Escribiendo a retazos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    
-	<atom:link href="https://hexodu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es</language><atom:link href="https://hexodu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
